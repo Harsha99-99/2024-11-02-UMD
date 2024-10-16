@@ -9,13 +9,13 @@ country: "USA"      # lowercase two-letter ISO country code such as "fr" (see ht
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "41.633331"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-71.006882"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Sep 28-29, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Nov 2nd & 3rd,2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm ET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: "2024-09-28"      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: "2024-09-29"        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Krishna Bijjam", "Zebulun Arendsee"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Andy Jones", "Catalina Roma"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["emma.wood@umassd.edu", "gfay@umassd.edu", "zebulun.arendsee@regeneron.com", "bvkreddy680@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+startdate: "2024-11-02"      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: "2024-11-03"        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Chris Hamm", "Imran Khan"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Sudhanshu Mukherjee", "Lia Miller"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["emma.wood@umassd.edu", "gfay@umassd.edu", "topher.hamm@gmail.com", "buildwelllabs@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
